@@ -1,5 +1,3 @@
 # FirstStep
-
-The first commit is like the first sex.
-
-Comment from second branch
+Day one.
+Getting started on the project.
